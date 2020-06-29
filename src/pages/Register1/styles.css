@@ -1,0 +1,28 @@
+.index{
+    height: 80vh;
+    margin-top: 10vh;
+}
+.indexpng{
+    height: 80vh;
+}
+.logoA{
+    height: 50px;
+}
+.logo{
+    height: 25px;
+    margin: 20px 0 0 0;
+}
+.singIn{
+    font-size: 1.5em;
+}
+.google{
+    color: #746AC5 !important;
+    font-weight: bold;
+    border: solid 2px #746AC5 !important;
+}
+.continue{
+    background-color: #746AC5 !important;
+}
+.sing{
+    color:  #746AC5 !important;
+}
